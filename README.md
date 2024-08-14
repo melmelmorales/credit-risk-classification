@@ -6,10 +6,12 @@ The objective of this project is to assess the performance of a logistic regress
 
 ## Results
 
-Machine Learning Linear Regression Model (99% Accuracy):
+**Machine Learning Linear Regression Model (99% Accuracy)**
+
 * Class 0 (Healthy Loans)
     * Precision is 1.00, meaning all predicted class 0 instances are correct
     * Recall is 0.99, meaning 99% of actual class 0 instances were correctly predicted.
+   
 * Class 1 (High-Risk Loans)
     * Precision is 0.84, indicating that 84% of predicted class 1 instances are correct
     * Recall is 0.94, meaning 94% of actual class 1 instances were correctly predicted
