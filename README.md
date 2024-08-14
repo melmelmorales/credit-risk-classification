@@ -1,4 +1,4 @@
-# RiskRadar: AI-Powered Credit Risk Classification
+# AI-Powered Credit Risk Classification
 
 ## Overview of the Analysis
 
